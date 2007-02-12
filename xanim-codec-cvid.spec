@@ -1,5 +1,5 @@
 Summary:	Cinepak codec for XAnim
-Summary(pl):	Kodek Cinepak dla XAnima
+Summary(pl.UTF-8):   Kodek Cinepak dla XAnima
 Name:		xanim-codec-cvid
 Version:	2.1
 Release:	1
@@ -23,7 +23,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Cinepak codec decompression DLL for XAnim.
 
-%description -l pl
+%description -l pl.UTF-8
 Biblioteka do dekompresji kodeka Cinepak dla XAnima.
 
 %prep
