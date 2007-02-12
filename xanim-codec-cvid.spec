@@ -1,5 +1,5 @@
 Summary:	Cinepak codec for XAnim
-Summary(pl.UTF-8):   Kodek Cinepak dla XAnima
+Summary(pl.UTF-8):	Kodek Cinepak dla XAnima
 Name:		xanim-codec-cvid
 Version:	2.1
 Release:	1
